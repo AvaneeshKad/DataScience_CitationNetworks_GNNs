@@ -1,1 +1,5 @@
 # Citation Network analysis with GNN algorithm
+
+<p>
+  This repository implements Graph Neural Network (GNN) architectures to perform node classification and link prediction on citation networks. By representing academic papers as nodes and citations as edges, the project explores how structural relationships and node features (abstracts/keywords) can be leveraged to predict a paper's field or the likelihood of future citations.
+</p>
